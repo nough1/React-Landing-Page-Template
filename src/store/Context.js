@@ -35,7 +35,7 @@ export const initialState = {
     appName: 'AmpliChat',
 
     coverTitle: 'Stay Connected at Events',
-    coverText: 'Chat with other attendees and make new friends at your favorite events and concerts.',
+    coverText: 'time guardian coming!.',
     appleStoreBadge: appleStoreBadge,
     appleStoreLink: 'https://apps.apple.com/us/app/amplichat/id1499570373',
     googlePlayBadge: googlePlayBadge,
